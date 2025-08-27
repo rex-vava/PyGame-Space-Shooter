@@ -1,5 +1,6 @@
 # PyGame-Space-Shooter
  Ready-to-run space shooter game with player controls, enemies, shooting, and score tracking
+
 How to Play
 Use the arrow keys to move your spaceship
 
